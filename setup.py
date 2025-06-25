@@ -1,1 +1,0 @@
-Please provide content for setup.py
